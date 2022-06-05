@@ -1,0 +1,25 @@
+body {
+  /* green color for earth vibes */
+  background-color: Honeydew;
+  color: DarkSlateGray;
+  font-size: 120%;
+  margin: auto;
+}
+.content {
+  background-color: #B4BFB4;
+  /* center div */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  justify-content: center;
+  /* max-width instead of margin to support multiple aspect ratios */
+  /* 1000 px to fit job table */
+  max-width: 1000px;
+  font-family: 'Didact Gothic';
+  display: block;
+  border: solid;
+}
+video, iframe {
+  max-width: 100%;
+  height: auto;
+}
