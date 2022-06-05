@@ -19,7 +19,7 @@ body {
   display: block;
   border: solid;
 }
-video, iframe {
+iframe {
   max-width: 100%;
   height: auto;
 }
